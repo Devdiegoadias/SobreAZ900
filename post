@@ -1,0 +1,55 @@
+Microsoft AZ-900
+ Diego A. Dias 20 de julho de 2020
+Bem pessoal, há 3 dias eu fiz a prova AZ-900, e obtive aprovação. Não foi um dos exames mais difíceis que realizei mas se engana quem pensa que é fácil, pois não é.
+
+AZ-900 é nível fundamentals sobre Azure e Cloud Computing, onde o foco do exame é atestar seu conhecimento em serviços e recursos de Cloud Computing a nível iniciante, porém há detalhes que somente com o estudo direcionado você aprende, informações passadas que beiram uma ‘cultura geral’ do Azure e que podem te atrapalhar na contagem final dos pontos.
+
+O exame você consegue marcar conforme abaixo:
+
+
+https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
+– Sobre o Exame
+Havia um tempo que eu não fazia provas da Microsoft e uma coisa que fiquei impressionado foi o processo de identificação, como tirar foto do ambiente, do rosto (enquadramento dos olhos…) e de algum documento de identificação com foto para comparação, via mobile no meu caso. Depois de aguardar 15 minutos, o exame iniciou.
+
+Fui tocando o barco, estou acostumado à fazer provas e sempre termino bem antes do horário. A maioria das questões eram de múltipla escolha. Algumas delas, do tipo “arrastar e soltar”.
+
+Nada demais, um exame bem feito e encadeado, e no final fui aprovado.
+
+https://www.youracclaim.com/badges/1471742c-83e8-425a-8d07-30e12cd8532f/linked_in
+
+– Sobre meu preparo
+Minha forma de preparo para qualquer prova que eu faça é caótica, sempre abordo assuntos intermediários e avançados primeiramente, preferencialmente os mais técnicos, para depois eu estudar o conceitual e a introdução, refazendo posteriormente os tópicos avançados. Essa forma de estudo me faz ‘linkar’ melhor as informações.
+
+Como material de estudo, não tem jeito, é o material oficial da Microsoft. É a ementa válida e você até pode estudar outra coisa em conjunto, mas como base, o material oficial. Fora isso, vale seguir alguns canais no youtube, geralmente dos MVPs globais, em inglês. Eu mesmo deixo rodando durante o dia, mais de uma vez os que eu acho interessante. É um aprendizado passivo, despretensioso, mas que gera resultado (ao menos para mim).
+
+
+https://docs.microsoft.com/pt-br/learn/azure/
+– Tópicos relevantes
+Conceitos de Nuvem
+Entender a diferença entre IaaS, PaaS e SaaS.
+Entender a diferença entre nuvem, privada, pública e híbrida.
+Entender a diferença entre CapEx e OpEx.
+Entender a diferença entre Elasticidade, Escalabilidade, Disponibilidade, Disaster Recovery e etc.
+Serviços do Azure
+Entender a arquitetura do Azure (Regiões, Zonas de disponibilidade e etc).
+Entender os principais serviços do Azure (Computação, Storage, Dados, Rede e etc).
+Entender como funciona o Portal do Azure, Azure Cli, Powershell e Cloud Shell.
+Entender a utilidade do Azure Advisor.
+Segurança, Privacidade e Conformidade
+Entender a diferença entre Network Security Group (NSG), Firewall, Proteção DDoS.
+Entender como funciona o Azure Active Directory.
+Entender para que serve o Azure Key-Vault
+Entender as metodologias de segurança do Azure (Policies, Locks e etc).
+Entender as opções de monitoramento e Log (Azure Monitor, Log Analytics e etc).
+Entender as diferentes normas de conformidade do Azure variando de acordo com cada país.
+Precificação e Suporte
+Entender a diferença entre uma assinatura “Free” e em uma assinatura “normal”.
+Entender para que serve uma Subscription.
+Entender a diferença entre os planos de suporte do Azure (Basic, Standart, Professional e etc).
+Entender o SLA do Azure.
+Há quem não veja valor em certificações. Alguns acham que é questão de vaidade, ou até mesmo perda de tempo, pois você recebe o mesmo salário do colega ao lado.
+
+Minha percepção é bem simples. Um profissional precisa se atualizar e já que vai estudar, acho muito coerente validar o conhecimento através de um exame.
+
+Lembrem-se que a certificação não é o final. Vai de encontro aquela velha história do cume da montanha e da jornada. O foco é a trajetória, o aprendizado (ainda que cíclico e efêmero).
+
